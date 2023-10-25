@@ -1,5 +1,7 @@
 # AWS Labs - Auditing Your Security with AWS Trusted Advisor
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=lilithmorgan_aws-terraform-trusted-advisor&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=lilithmorgan_aws-terraform-trusted-advisor)
+
 Este projeto visa ajudar os iniciantes que estao fazendo o lab da AWS Auditing Your Security with AWS Trusted Advisor a entenderem como configurar usando Terraform. 
 
 Dei uma explorada um pouco mais fiz as notificações serem enviadas por email utilizando Simple Notification Service (SNS) 
